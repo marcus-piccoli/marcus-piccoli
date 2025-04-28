@@ -43,7 +43,7 @@ Currently, I am focused on specializing in digital solutions development, with a
 
 - Operating Systems: Linux | Windows
 - Computer Maintenance: Hardware and Software
-- Front-End Development: React.js
+- Front-End Development: React.js / HTML / CSS / JavaScript
 - Fundamentals of Neural Networks (ongoing learning)
 - Audio Equipment Design
 - Data Protection and Digital Security
@@ -60,10 +60,6 @@ To consolidate my career in **software development** and **artificial intelligen
 
 - [LinkedIn](https://linkedin.com/in/marcus-piccoli)
 - [GitHub](https://github.com/marcus-piccoli)
-
----
-
-> _"Technology is an extension of our ability to turn ideas into reality."_
 
 ---
 
@@ -108,10 +104,6 @@ Consolidar minha atuação em **desenvolvimento de software** e **inteligência 
 
 - [LinkedIn](https://linkedin.com/in/marcus-piccoli)
 - [GitHub](https://github.com/marcus-piccoli)
-
----
-
-> _"A tecnologia é uma extensão da nossa capacidade de transformar ideias em realidades."_
 
 ---
 
