@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0057B7&height=250&section=header&text=Marcus%20Vinicius%20Piccoli%20Junior&fontSize=40&fontColor=FFFFFF&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descSize=20&descAlign=50&descAlignY=70" alt="Banner Marcus Piccoli">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:#3B82F6,100:#1E3A8A&height=250&section=header&text=Marcus%20Vinicius%20Piccoli%20Junior&fontSize=40&fontColor=#D1D5DB&animation=fadeIn&desc=Software%20Developer%20%7C%20AI%20Enthusiast&descSize=20&descAlign=50&descAlignY=70" alt="Banner Marcus Piccoli">
 </p>
 
 ---
