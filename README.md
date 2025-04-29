@@ -1,7 +1,16 @@
 # 👨‍💻 Marcus Vinicius Piccoli Junior
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/marcus-piccoli)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)](https://github.com/marcus-piccoli)
+<p align="center">
+  <a href="https://linkedin.com/in/marcus-piccoli" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/marcus-piccoli" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github" alt="GitHub Badge"/>
+  </a>
+  <a href="https://www.dio.me/users/marcus_piccoli" target="_blank">
+    <img src="https://img.shields.io/badge/DIO.me-Learning-blueviolet?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAAARVBMVEUAAABXV1fX19fY2NjZ2dnY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NgAAAC8XccDAAAAD3RSTlMAAQIDBAUGBwgJCgsMDQ4PEH5vBQAAAG9JREFUGNNVzUsOwjAQRdG2JFDZxXb3/y1C4VDSAYHb8xkpyHnPZuCr0z3kGqmgLMRRMq9oVxx4XONa+REAXg4WjDCWJTxPl0OGrWWJSjiA0OXM1j8cwBGkuQphITgBuikzmjTTfHUAAAAASUVORK5CYII=(https://assets.dio.me/VTgUqMiPAIgvsFdSvgSnVAB5lrqnNxY_N8h8LknnQys/f:webp/q:80/w:120/L2Fzc2V0cy9kaW9tZS9sb2dvLWZ1bGwuc3Zn)" alt="DIO.me Badge"/>
+  </a>
+</p>
 
 ---
 
